@@ -1,1 +1,1 @@
-# texteditor-app
+# Django-app
